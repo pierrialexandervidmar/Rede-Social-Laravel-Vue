@@ -48,13 +48,13 @@ cd Rede-Social-Laravel-Vue
 Na primeira execução:
 
 ```bash
-sail compose up --build -d
+sail up --build -d
 ```
 
 Nas demais pode executar apenas:
 
 ```bash
-sail compose up -d
+sail up -d
 ```
 
 ## Acesso ao Banco de Dados
