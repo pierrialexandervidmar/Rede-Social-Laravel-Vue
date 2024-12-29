@@ -1,4 +1,4 @@
-# Blog Laravel e painel administrativo Filament
+# Rede Social com Laravel, Vue JS e Inertia JS
 
 Projeto `Laravel Sail` de uma rede social para inúmeros fins futuros. Com `Laravel`, `Vue JS` e `Inertia JS`.
 
