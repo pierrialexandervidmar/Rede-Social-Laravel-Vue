@@ -8,6 +8,7 @@ Projeto `Laravel Sail` de uma rede social para inúmeros fins futuros. Com `Lara
 - Laravel 11
 - Vue JS
 - Inertia JS
+- Mailpit
 - Eloquent ORM
 - Composer
 - Docker & Docker Compose
@@ -79,3 +80,9 @@ Crie um novo servidor no PgAdmin:
 - Username: sail
 - Password: password
 4. Clique em "Save".
+
+### Conectando ao Mailpit
+
+Acesse o Mailpit pelo navegador em http://localhost:8025
+
+
